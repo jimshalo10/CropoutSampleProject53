@@ -1,4 +1,4 @@
-# Cropout Sample Project version 5.3.2
+# Cropout Sample Project Unreal Engine version 5.3 this wont work for earlier versions
 
 *This is NOT the latest version*, which can be found in the Epic Games Launcher Sample Example section
 
